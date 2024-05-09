@@ -1,0 +1,12 @@
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\webAPI
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\appsettings.Development.json
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\appsettings.json
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\webAPI.dll
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\webAPI.deps.json
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\webAPI.runtimeconfig.json
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\webAPI.pdb
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN-PC\Desktop\PRN211\webAPI\webAPI\bin\Release\net7.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
